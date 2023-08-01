@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Ali Noor
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate with Laravel community
+- 👀 I’m interested in Machine Learning Engineering 
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate with Machine Learning community
 - 📫 Reach me aupuchowdhhhury@gmail.com
 
 <!---
